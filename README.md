@@ -6,7 +6,7 @@ By leveraging sequential chains from Langchain, I've connected various scenarios
 
 ## Create ```.ENV file```
 
-#### Store Your Api-Key Inside The .Env File
+#### Store Your Api-Key Inside The .Env File Like This
 
 ```http
   OPENAI_API_KEY = ""
