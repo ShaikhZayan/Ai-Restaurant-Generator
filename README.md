@@ -1,5 +1,5 @@
 
-# Project Title
+# Restaurant Ai
 
 I've created an AI tool that generates restaurant names and menus using cutting-edge technology from Generative AI, Langchain, and OpenAI! 🚀
 By leveraging sequential chains from Langchain, I've connected various scenarios to produce a variety of outputs.
